@@ -1,0 +1,38 @@
+#intro {
+  text-align: center;
+}
+
+.contact-div {
+  text-align: center;
+}
+
+.ratp{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#github{
+  text-align: center;
+}
+
+#competence{
+  text-align: center;
+}
+
+.topnav {
+  overflow: hidden;
+  background-color: #BDC0BF;
+  text-align: center;
+  font-family: "Verdana", monospace;
+}
+
+.topnav a {
+
+  display: inline-block;
+  color: #f2f2f2;
+  text-align: justify;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 1.2em;
+}
